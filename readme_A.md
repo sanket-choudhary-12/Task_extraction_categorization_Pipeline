@@ -3,6 +3,8 @@
 ## **Introduction**
 This document outlines the implementation of an NLP pipeline to extract and categorize tasks from unstructured text without using LLMs. The pipeline is designed to identify task-related phrases, responsible entities (who), and deadlines (when). The implementation is modular, ensuring flexibility and scalability.
 
+DEMO: https://www.loom.com/share/58ac1987d11a463994f9bea4e986aa91?sid=430120e3-277f-4abf-9205-784938a8546a
+
 ## **Implementation Steps**
 
 ### **1. Preprocessing**
@@ -146,5 +148,4 @@ This NLP pipeline effectively extracts structured tasks from free text without u
 - **UI Implementation (e.g., Streamlit)** for ease of use in real-world applications.
 
 ---
-📌 **End of Part A Documentation** ✅
 
